@@ -2232,15 +2232,6 @@ dot-case@^3.0.3:
     no-case "^3.0.3"
     tslib "^1.10.0"
 
-dplayer@tsukumijima/DPlayer#master:
-  version "1.26.0"
-  resolved "https://codeload.github.com/tsukumijima/DPlayer/tar.gz/8af3e73ca961c07e82e078c7307d797c9ba61904"
-  dependencies:
-    aribb24.js "1.7.13"
-    axios "^0.21.4"
-    balloon-css "^1.0.3"
-    promise-polyfill "8.2.0"
-
 duplexify@^3.4.2, duplexify@^3.6.0:
   version "3.7.1"
   resolved "https://registry.npm.taobao.org/duplexify/download/duplexify-3.7.1.tgz#2a4df5317f6ccfd91f86d6fd25d8d8a103b88309"
@@ -3420,6 +3411,15 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   version "6.0.3"
   resolved "https://registry.npm.taobao.org/kind-of/download/kind-of-6.0.3.tgz#07c05034a6c349fa06e24fa35aa76db4580ce4dd"
   integrity sha1-B8BQNKbDSfoG4k+jWqdttFgM5N0=
+
+"libdrive-dplayer@https://github.com/libDrive/dplayer#1.27.0":
+  version "1.27.0"
+  resolved "https://github.com/libDrive/dplayer#0b3fe5a46e0609d54a734146ed1e05221c192f4d"
+  dependencies:
+    aribb24.js "1.7.13"
+    axios "^0.21.4"
+    balloon-css "^1.0.3"
+    promise-polyfill "8.2.0"
 
 loader-runner@^2.4.0:
   version "2.4.0"

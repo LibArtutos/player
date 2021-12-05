@@ -1,7 +1,7 @@
 import React from "react";
 import clsx from 'clsx';
 import omit from 'omit.js';
-import DPlayer from 'dplayer';
+import DPlayer from 'libdrive-dplayer';
 
 const events = [
   "abort", "canplay", "canplaythrough",
@@ -38,16 +38,16 @@ class DPlayerComponent extends React.Component {
     //new player
     const player = this.dp = new DPlayer({
       ...Object.assign({}, {
-        lang: 'zh-cn',
+        lang: 'en',
         contextmenu: [
           {
-            text: 'Author',
-            link: 'https://github.com/hnsylitao'
+            text: "GitHub",
+            link: "https://github.com/libDrive/libDrive",
           },
           {
-            text: 'GitHub',
-            link: 'https://github.com/MoePlayer/react-dplayer'
-          }
+            text: "Author",
+            link: "https://elias.eu.org",
+          },
         ],
       }, options),
       container: this.container

@@ -1,7 +1,7 @@
 /// <reference types="dplayer" />
 
 declare module "react-dplayer" {
-  import DPlayer, { DPlayerOptions } from "dplayer";
+  import DPlayer, { DPlayerOptions } from "libdrive-dplayer";
   import * as React from "react";
 
   type DPlayerEventHandle = () => void;
