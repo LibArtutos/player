@@ -1371,8 +1371,8 @@ balanced-match@^1.0.0:
 
 balloon-css@^1.0.3:
   version "1.2.0"
-  resolved "https://registry.npm.taobao.org/balloon-css/download/balloon-css-1.2.0.tgz#53d3fb4051264a278a58713bed6865845dbcaf4b"
-  integrity sha1-U9P7QFEmSieKWHE77WhlhF28r0s=
+  resolved "https://registry.yarnpkg.com/balloon-css/-/balloon-css-1.2.0.tgz#53d3fb4051264a278a58713bed6865845dbcaf4b"
+  integrity sha512-urXwkHgwp6GsXVF+it01485Z2Cj4pnW02ICnM0TemOlkKmCNnDLmyy+ZZiRXBpwldUXO+aRNr7Hdia4CBvXJ5A==
 
 base64-js@^1.0.2:
   version "1.3.1"
