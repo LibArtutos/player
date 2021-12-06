@@ -3414,7 +3414,7 @@ kind-of@^6.0.0, kind-of@^6.0.2:
 
 "libdrive-dplayer@git+https://github.com/libDrive/dplayer.git#v1.27.0":
   version "1.27.0"
-  resolved "git+https://github.com/libDrive/dplayer.git#31e57bab15faadfd7c973300653ee34fc9b6c0e2"
+  resolved "git+https://github.com/libDrive/dplayer.git#a48fad5a876183dd95595f92be3f912c700a567a"
   dependencies:
     aribb24.js "1.7.13"
     axios "^0.21.4"
