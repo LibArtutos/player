@@ -3412,9 +3412,9 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   resolved "https://registry.npm.taobao.org/kind-of/download/kind-of-6.0.3.tgz#07c05034a6c349fa06e24fa35aa76db4580ce4dd"
   integrity sha1-B8BQNKbDSfoG4k+jWqdttFgM5N0=
 
-"libdrive-dplayer@git+https://github.com/libDrive/dplayer.git#1.27.0":
+"libdrive-dplayer@git+https://github.com/libDrive/dplayer.git#v1.27.0":
   version "1.27.0"
-  resolved "git+https://github.com/libDrive/dplayer.git#22a3e6894f3d4df2f6aa8dba6d7bce375dd518b1"
+  resolved "git+https://github.com/libDrive/dplayer.git#31e57bab15faadfd7c973300653ee34fc9b6c0e2"
   dependencies:
     aribb24.js "1.7.13"
     axios "^0.21.4"
